@@ -1,1 +1,5 @@
-本文件夹程序用于测试网络模型
+本文件夹的程序用于测试网络模型效果的程序
+vnet3_test.py 测试网络，生成预测npy文件
+analyse_predict_npy_3.py 分析预测npy文件，与label做对比，计算Dice系数
+plot_test_dice_histogram.py analyse中绘制切片Dice系数分布的小程序
+draw_convergence.py 绘制网络过程中的收敛曲线，但是需要自己记录网络训练的每一个epoch的loss值与Dice值
