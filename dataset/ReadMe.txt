@@ -1,9 +1,1 @@
-本文件夹程序用于数据预处理以及制作测试数据集
-a_convert_nii_to_png.py 将医学图像格式转换为png格式，同时截取窗位窗宽
-b_remove_little_dir.py 移除较小数据文件夹
-c_count_dir_mean.py 计算dir均值
-d_adjust_brightness.py 自适应调整亮度差异
-e_make_cv_clip_png.py 裁剪原始图像
-f_make_dir_npy_data.py 制作dir_npy文件
-g_make_3_1_test_npy.py 制作测试集数据
-plot_dir_mean.py 绘制dir均值分布折线图
+
