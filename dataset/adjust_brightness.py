@@ -30,7 +30,7 @@ for i in range(len(dirs)):
         image_path = os.path.join(train_dir_path, name)
         image = cv.imread(image_path, 0)
         image = image.astype("float32")
-        # image /= 255
+        # image /= 255 
         image -= mean_sub
         image += mean_add
         # image *= 255
