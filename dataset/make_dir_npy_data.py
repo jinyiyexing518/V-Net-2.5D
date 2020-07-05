@@ -5,7 +5,7 @@
 import os
 import cv2 as cv
 import numpy as np
-
+ 
 
 # 处理过床位窗宽的train图像
 train_png_path = "./data_cv_clip/train"
