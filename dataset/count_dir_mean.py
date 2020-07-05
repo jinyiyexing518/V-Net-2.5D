@@ -4,7 +4,7 @@ import numpy as np
 
 
 train_raw_path = "./data_raw_slice_tumour/train"
-label_raw_path = "./data_raw_slice_tumour/label"
+label_raw_path = "./data_raw_slice_tumour/label" 
 
 
 def count_dir_mean_fun():
