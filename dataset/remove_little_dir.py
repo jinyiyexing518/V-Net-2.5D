@@ -2,7 +2,7 @@ import os
 
 
 raw_train_path = "./data_raw_slice_tumour/train"
-raw_label_path = "./data_raw_slice_tumour/label"
+raw_label_path = "./data_raw_slice_tumour/label" 
 # raw_train_path = "./data_slice_tumour_modify_brightness/train"
 # raw_label_path = "./data_slice_tumour_modify_brightness/label"
 
