@@ -8,7 +8,7 @@ raw_slice_train_path = "D:/pycharm_project/V_Net_tumour_processing_data/dataset/
 raw_slice_label_path = "D:/pycharm_project/V_Net_tumour_processing_data/dataset/" \
                        "data_slice_tumour_modify_brightness/label"
 
-
+ 
 train_clip_save_path = "./data_cv_clip_whole/train"
 label_clip_save_path = "./data_cv_clip_whole/label"
 
