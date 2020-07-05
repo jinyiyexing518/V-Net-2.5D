@@ -52,7 +52,7 @@ for dir in train_dirs:
         train_img = np.reshape(train_img, (400, 400, 1))
         label_img = np.reshape(label_img, (400, 400, 1))
         train_dir_npy[i] = train_img
-        label_dir_npy[i] = label_img
+        label_dir_npy[i] = label_img 
 
         i += 1
 
